@@ -1,0 +1,12 @@
+.dash {
+    display: block;
+    width: 3%;
+    background-color: black;
+    height: 5px;
+    margin-top: 4px;
+}
+
+.dash::before {
+    display: block;
+
+}
